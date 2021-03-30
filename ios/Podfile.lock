@@ -1,0 +1,40 @@
+PODS:
+  - audio_recorder (0.0.1):
+    - Flutter
+  - audioplayer (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_tts (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - audio_recorder (from `.symlinks/plugins/audio_recorder/ios`)
+  - audioplayer (from `.symlinks/plugins/audioplayer/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_tts (from `.symlinks/plugins/flutter_tts/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+
+EXTERNAL SOURCES:
+  audio_recorder:
+    :path: ".symlinks/plugins/audio_recorder/ios"
+  audioplayer:
+    :path: ".symlinks/plugins/audioplayer/ios"
+  Flutter:
+    :path: Flutter
+  flutter_tts:
+    :path: ".symlinks/plugins/flutter_tts/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+
+SPEC CHECKSUMS:
+  audio_recorder: 8d200bc5ca10f8a5f8121ad1d2fcf49108a0b3bf
+  audioplayer: 0584f31a697e4b0bbad405ae7903d7a93585e784
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  flutter_tts: 0f492aab6accf87059b72354fcb4ba934304771d
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+
+PODFILE CHECKSUM: cc1f88378b4bfcf93a6ce00d2c587857c6008d3b
+
+COCOAPODS: 1.10.1
